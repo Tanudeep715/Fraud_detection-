@@ -9,28 +9,28 @@ This suite offers a multi-angle diagnostic view into fraud risk patterns — ble
 
 
 📁 Dashboards
-1. 🎯 Targeted Risk: Sessions & Referrals
+1. 🎯 Targeted Risk: Sessions & Referrals:-
           Flags sessions with unusual volume, high transaction amounts, and referral abuse.
 
    🔍 Watch: sess_2386, ref109, short sessions with high fraud likelihood.
 
-3. ⏱️💸 Time & Amount Anomaly Tracker
+2. ⏱️💸 Time & Amount Anomaly Tracker:-
           Tracks fraud bursts across hours and high-value transactions.
 
    🔍 Peak: Hour 6 (11 cases), fraud across all amounts — not just big-ticket.
 
-5. 🌍 Fraud Risk Map: IP & Locations
+3. 🌍 Fraud Risk Map: IP & Locations:-
           Maps fraud hotspots by IP and country.
 
    🔍 Top risk countries: Germany, India. Repeated IPs = potential botnets/VPNs.
 
-7. 🔦 Spotlight on Risky Behavior
+4. 🔦 Spotlight on Risky Behavior:-
           Detects users with highest fraud rates, suspicious logins, and reset abuse.
 
    🔍 User Risk: user_7931, user_6350 with 20%+ fraud rate.
 
 
-9. 🔍 Fraud Intelligence Hub
+5. 🕵️‍♂️ Fraud Intelligence Hub:-
          Tracks overall fraud rate, trends, and channel distribution.
 
    🔍 Insights: 0.12% fraud rate, spikes in May/Dec, mobile apps dominate fraud entry.
