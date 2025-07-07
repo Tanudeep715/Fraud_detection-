@@ -33,11 +33,6 @@ Tracks overall fraud rate, trends, and channel distribution.
 
 🔍 Insights: 0.12% fraud rate, spikes in May/Dec, mobile apps dominate fraud entry.
 
-🧩 Keep Watching
-Some patterns only appear when you're not looking.
-Data often hides its insights in plain sight.
-Stay patient — meaningful trends emerge over time.
-
 
 
 📌 Key Insights
@@ -49,3 +44,9 @@ VPN / geo-hopping IPs suggest location spoofing.
 
 Behavioral patterns (e.g., password reset → fraud) stronger than device type.
 
+
+
+🧩 Keep Watching
+Some patterns only appear when you're not looking.
+Data often hides its insights in plain sight.
+Stay patient — meaningful trends emerge over time.
